@@ -1,0 +1,14 @@
+[
+    {
+        "wifi": 350000,
+        "lokasi": "Tlogo Ad Dhuha",
+        "penghuni": 7,
+        "listrik": 500000
+    },
+    {
+        "wifi": 1,
+        "lokasi": "adsasd",
+        "penghuni": 4,
+        "listrik": 2
+    }
+]
